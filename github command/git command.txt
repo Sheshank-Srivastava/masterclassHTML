@@ -1,0 +1,6 @@
+git init
+git status
+git all . 
+git commit -m "/your message/"
+git config --global user.email "/your email address/"
+git config --global user.
