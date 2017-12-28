@@ -4,3 +4,5 @@ git all .
 git commit -m "/your message/"
 git config --global user.email "/your email address/"
 git config --global user.
+git remote add origin /url of the repository/
+git push -u origin master
